@@ -4,7 +4,7 @@ title: "Intro to Hackathon Projects"
 date: 2021-11-25 08:06:02 -0500
 categories: workshop
 author: Connor
-image: "assets/img/desk.jpg"
+image: "/assets/img/2021-11-25.png"
 ---
 
 ### Process
